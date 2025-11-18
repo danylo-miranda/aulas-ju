@@ -1,3 +1,5 @@
+# Tuplas são parecidas com listas, mas não podem ser alteradas.
+
 # Definindo uma tupla
 coordenadas = [10.5, 25.3]
 print(f"Tupla original: {coordenadas}")
